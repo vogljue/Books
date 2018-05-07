@@ -1,0 +1,219 @@
+2018-05-06 10:26:56.1641||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:26:56.2029||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:26:56.2308||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:26:56.2358||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:26:56.2358||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:26:56.2766||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 10:27:49.1392||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:27:49.1771||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:27:49.2013||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:27:49.2056||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:27:49.2056||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:27:49.2448||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 10:30:14.0694||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:30:14.1072||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:30:14.1317||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:30:14.1359||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:30:14.1359||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:30:14.1747||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 10:32:48.6998||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:32:48.7384||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:32:48.7633||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:32:48.7677||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:32:48.7677||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:32:48.8075||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 10:36:34.9112||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:36:34.9593||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:36:34.9857||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:36:34.9907||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:36:34.9907||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:36:35.0346||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 10:42:07.8854||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 10:42:07.9237||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 10:42:07.9490||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 10:42:07.9535||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 10:42:07.9535||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 10:42:07.9939||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 15:44:00.4059||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 15:44:00.4459||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 15:44:00.4904||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 15:44:00.4949||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 15:44:00.4949||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 15:44:00.5521||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 15:45:43.7724||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 15:45:43.8116||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 15:45:43.8380||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 15:45:43.8429||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 15:45:43.8429||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 15:45:43.8829||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 15:56:12.9023||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 15:56:12.9403||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 15:56:12.9646||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 15:56:12.9690||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 15:56:12.9690||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 15:56:13.0081||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 15:57:56.2176||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 15:57:56.2560||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 15:57:56.2803||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 15:57:56.2846||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 15:57:56.2848||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 15:57:56.3236||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:03:09.6930||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:03:09.7506||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:03:09.7892||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:03:09.7960||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:03:09.7960||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:03:09.8594||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:04:32.8462||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:04:32.8858||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:04:32.9132||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:04:32.9179||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:04:32.9179||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:04:32.9605||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:09:44.7499||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:09:44.7883||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:09:44.8139||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:09:44.8183||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:09:44.8183||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:09:44.8578||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:15:38.2153||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:15:38.2681||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:15:38.3033||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:15:38.3093||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:15:38.3093||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:15:38.3799||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:16:18.6220||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:16:18.6751||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:16:18.7100||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:16:18.7160||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:16:18.7160||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:16:18.7739||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:28:00.4606||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:28:00.4984||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:28:00.5228||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:28:00.5271||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:28:00.5271||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:28:00.5660||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:39:39.2140||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:39:39.2519||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:39:39.2761||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:39:39.2805||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:39:39.2808||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:39:39.3204||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:52:07.8439||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:52:07.8978||Books.Services.BookService|INFO|ReadBooks 
+2018-05-06 16:52:07.9364||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:52:07.9429||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:52:07.9429||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:52:08.0043||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:52:08.0095||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:52:08.0095||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:52:08.0104||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:55:30.2360||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:55:30.3010||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 16:55:30.3365||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:55:30.3424||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:55:30.3424||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:55:30.4008||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:55:30.4084||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:55:30.4084||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:55:30.4092||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:55:34.4209||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:55:34.4209||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 16:55:34.4244||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:56:29.5981||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:56:29.6512||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 16:56:29.6871||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:56:29.6932||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:56:29.6932||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:56:29.7501||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:56:29.7602||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:56:29.7602||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:56:29.7611||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:56:33.7654||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:56:33.7661||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 16:56:33.7757||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:57:49.6701||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:57:49.7233||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 16:57:49.7659||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 16:57:49.7740||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:57:49.7740||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:57:49.8371||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:57:49.8497||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 16:57:49.8499||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 16:57:49.8554||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 16:57:53.8544||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 16:57:53.8549||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 16:57:53.8642||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 17:00:43.7273||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 17:00:43.7808||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 17:00:43.8229||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 17:00:43.8310||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 17:00:43.8310||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 17:00:43.9050||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 17:00:43.9142||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 17:00:43.9142||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 17:00:43.9216||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 17:00:47.9178||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 17:00:47.9178||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 17:00:47.9264||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:52:52.8914||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:52:52.9415||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 20:52:52.9899||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:52:52.9948||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:52:52.9948||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:52:53.0593||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:52:53.0644||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:52:53.0644||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:52:53.0653||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:52:57.0694||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:52:57.0700||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 20:52:57.0797||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:54:06.9556||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:54:06.9934||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 20:54:07.0179||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:54:07.0222||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:54:07.0222||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:54:07.0613||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:54:07.0652||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:54:07.0652||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:54:07.0659||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:54:11.0704||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:54:11.0704||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 20:54:11.0764||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:56:10.3659||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:56:10.4040||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 20:56:10.4286||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 20:56:10.4330||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:56:10.4330||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:56:10.4729||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:56:10.4768||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 20:56:10.4768||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 20:56:10.4768||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 20:56:14.4813||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 20:56:14.4818||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 20:56:14.4892||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 21:03:48.6550||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 21:03:48.6930||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 21:03:48.7177||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 21:03:48.7221||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 21:03:48.7221||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 21:03:48.7623||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 21:03:48.7663||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 21:03:48.7663||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 21:03:48.7670||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 21:03:52.7732||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 21:03:52.7732||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 21:03:52.7792||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 21:06:02.7002||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 21:06:02.7382||Books.Services.BookService|INFO|ReadBooksDTO 
+2018-05-06 21:06:02.7626||Books.Services.BookService|INFO|Dispose on BookService 
+2018-05-06 21:06:02.7668||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 21:06:02.7668||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 21:06:02.8054||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 21:06:02.8093||Books.Services.PersonService|INFO|Initializing PersonService 
+2018-05-06 21:06:02.8093||Books.Services.PersonService|INFO|PrintList 
+2018-05-06 21:06:02.8100||Books.Services.PersonService|INFO|Dispose on PersonService 
+2018-05-06 21:06:06.8131||Books.Services.BookService|INFO|Inizializing BookService 
+2018-05-06 21:06:06.8131||Books.Services.BookService|INFO|ReadAllBooks 
+2018-05-06 21:06:06.8210||Books.Services.BookService|INFO|Dispose on BookService 
